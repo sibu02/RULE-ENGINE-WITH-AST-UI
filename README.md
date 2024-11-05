@@ -99,18 +99,18 @@ This AST format allows for the dynamic creation and evaluation of complex rule s
 
 # Screenshots
 
-Rule List<br/> <br/> 
-![](/public/projectDemo/1.png)<br/> <br/> <br/>
+<b>Rule List</b><br/><br/>
+![](/public/projectDemo/1.png)<br/> <br/>
 
-View AST<br/> <br/> 
-![](/public/projectDemo/5.png)<br/> <br/> <br/>
+ <b>View AST</b><br/><br/>
+![](/public/projectDemo/5.png)<br/> <br/> 
 
-Create Rule<br/> <br/> 
-![](/public/projectDemo/2.png)<br/> <br/> <br/>
+<b>Create Rule</b><br/><br/>
+![](/public/projectDemo/2.png)<br/> <br/> 
 
-Modify Rule<br/> <br/> 
-![](/public/projectDemo/3.png)<br/> <br/> <br/>
+<b>Modify Rule</b><br/><br/>
+![](/public/projectDemo/3.png)<br/> <br/>
 
-Evaluate Rule<br/> <br/> 
-![](/public/projectDemo/4.png)<br/> <br/> <br/>
+<b>Evaluate Rule </b><br/><br/>
+![](/public/projectDemo/4.png)<br/> <br/>
 
